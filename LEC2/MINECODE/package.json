@@ -1,0 +1,11 @@
+{
+  "name": "minecode",
+  "version": "1.0.0",
+  "description": "first create react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "abhishek gupta",
+  "license": "ISC"
+}
